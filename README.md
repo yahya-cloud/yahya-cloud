@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a Full-stack project which i started in one recent hackathon
-- 🌱 I’m currently learning React Native and typeScript
+- 🌱 I’m currently learning React Native and TypeScript
 - 🤔 I’m looking for help with in procedure to become MLH member
 - 💬 Ask me about web related stuff 
 - 📫 How to reach me: Website - mohammadyahya.in
