@@ -1,7 +1,7 @@
 ### Hello, I'm Yahya 👋
 
 
-- 🔭 I’m currently working on a Full-stack project which i started in one recent hackathon
+- 🔭 I’m currently working in AugleAi
 - 🌱 I’m currently learning React Native and TypeScript
 - 💬 Ask me about web related stuff 
 - 📫 How to reach me: [Website - mohammadyahya.in](https://www.mohammadyahya.in/)
