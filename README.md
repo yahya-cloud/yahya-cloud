@@ -37,8 +37,8 @@ I am a Software Engineer immersed in the world of Software development and Block
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 # 📊GitHub Stats :
-![Overall Starts](https://github-readme-stats.vercel.app/api?username=samuelmaina&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=samuelmaina&theme=react&hide_border=false)<br/>
+![Overall Starts](https://github-readme-stats.vercel.app/api?username=yahya-cloud&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=yahya-cloud&theme=react&hide_border=false)<br/>
 
 
 
